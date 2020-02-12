@@ -43,6 +43,4 @@ public class MainActivity extends AppCompatActivity {
                 currentLayout.setBackground(getDrawable(imageID));
         }
     }
-
-
 }
